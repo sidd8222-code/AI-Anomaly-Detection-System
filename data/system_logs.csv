@@ -1,0 +1,7 @@
+cpu_usage,memory_usage,network_traffic,requests_per_min
+45,60,120,200
+50,62,130,210
+48,61,125,205
+47,63,128,215
+90,95,500,1200
+92,97,520,1300
